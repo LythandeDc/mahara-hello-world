@@ -1,3 +1,5 @@
+<?php 
+
 function local_sideblocks_update(&$SIDEBLOCKS)
 {
 
@@ -18,3 +20,5 @@ function local_sideblocks_update(&$SIDEBLOCKS)
 
     }
 }
+
+?>
