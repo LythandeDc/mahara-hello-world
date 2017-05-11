@@ -4,4 +4,4 @@
 
 Example of a sideblock structure with the local folder.
 
-If you have data, you can create the file hello.php in the local folder for validation. 
+If you have sql data, you can create the file hello.php in the local folder for validation. 
